@@ -1,11 +1,11 @@
--------DOWNLOAD THE SOURCE CODE----
+-------DOWNLOAD THE SOURCE CODE
 1. Download the Zip folder from this link: https://github.com/RashmiLKotian/Sample-React-Projects
 
--------INSTALL NODEJS SERVER-------
+-------INSTALL NODEJS SERVER
 
 2. Before executing the following steps, please install the nodejs server on your system from the following link: https://nodejs.org/en/download/
 
--------RUNNING THE PROJECT--------
+-------RUNNING THE PROJECT
 
 3. Open command prompt and cd to the downloaded project folder
 
